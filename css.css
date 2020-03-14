@@ -1,0 +1,18 @@
+body{
+    font-family: font-family: 'Lato', sans-serif;
+}
+.max-viewport{
+    min-height: 100vh;
+}
+.text-underline{
+    width: 100px;
+    border: 1px solid orange;
+    margin: 0 auto;
+}
+.about-image, #filler, #progress{
+    background-image: url(images/6.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
